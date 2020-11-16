@@ -1,3 +1,3 @@
 # Senior_Research
  
-### The objective of this project is to create a tool for users to type in symptoms they may have and the machine will determine your condition based on medical websites such as WebMd.
+### The objective of this project is to create a prototype for users to type in symptoms they may have and determine your condition whether it be the Common Cold, Influenze and/or Covid-19.
